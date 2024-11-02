@@ -1,6 +1,6 @@
-# Data Analysis and Machine Learning Repository
+# Data Analysis Repository
 
-This repository contains topics about data analysis and machine learning. It will continue to grow as ideas and concepts in machine learning are endless. 
+This repository contains topics about data analysis in the field of machine learning. It will continue to grow as ideas and concepts in data analysis and machine learning are endless. 
 
 ## Structure
 
